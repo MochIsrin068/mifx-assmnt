@@ -1,6 +1,6 @@
 ## Products Catalogs
 
-~Product Catalog MIFX example~
+~Product Catalog MIFX example
 
 ### Screenshot ~
 
